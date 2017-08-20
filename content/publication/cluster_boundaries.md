@@ -16,7 +16,7 @@ abstract_short = " "
 publication = "*Management and Organizational History* 12(1). 2017. 76-98."
 url_slides = ""
 title = "Negotiating cluster boundaries: Governance shifts in the palm oil and rubber cluster in Malay(si)a (1945–1970 ca.)"
-url_dataset = "https://github.com/ChandlerLutz/InvestorSentimentData"
+url_dataset = ""
 image_preview = ""
 working_paper = false
 

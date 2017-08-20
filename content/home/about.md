@@ -15,7 +15,7 @@ weight = 1
     "Business History",
     "Cluster Theory",
 	"Global Commodity Chains",
-    "Economic Geography"
+    "Corporate Reputation"
   ]
 
 # List your qualifications (such as academic degrees).
