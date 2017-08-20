@@ -132,7 +132,7 @@ defaultContentLanguageInSubdir = false
     link = "mailto:vgiacomin@hbs.edu"
 
   [[params.social]]
-   icon = "linkedin/square"
+   icon = "linkedin-square"
    icon_pack = "fa"
    link = "https://www.linkedin.com/in/valeria-giacomin-98760527/"
 
