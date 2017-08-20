@@ -15,6 +15,7 @@ weight = 1
     "Business History",
     "Cluster Theory",
 	"Global Commodity Chains",
+  "Emerging Markets",
     "Corporate Reputation"
   ]
 
@@ -35,11 +36,11 @@ weight = 1
   year = 2011
 
 [[education.courses]]
-  course = "BSc Economics and Finance"
+  course = "BA Economics and Finance"
   institution = "Bocconi University "
   year = 2009
 +++
 
 ## **Biography**
 
-Valeria Giacomin is Harvard Newcomen Fellow 2017 - 2018 at Harvard Business School. Her PhD research focused on the evolution of the palm oil cluster in Malaysia and Indonesia during 20th century. Her research interests include cluster theory, global commody chain theory, business history, global history and economic geography.
+Valeria Giacomin is Harvard-Newcomen Fellow 2017 - 2018 at Harvard Business School. Her PhD research focused on the evolution of the palm oil cluster in Malaysia and Indonesia during 20th century. She works on clustering and global value chains, trading networks and corporate reputation in emerging economies.

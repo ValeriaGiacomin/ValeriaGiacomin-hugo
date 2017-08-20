@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Valeria Giacomin"
-  role = "Harvard Newcomen Fellow "
+  role = "Harvard-Newcomen Fellow "
   organization = "Harvard Business School"
   organization_url = "test.com"
   avatar = "valeria_picture.jpg"
@@ -131,15 +131,15 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "mailto:vgiacomin@hbs.edu"
 
-  # [[params.social]]
-  #   icon = "twitter"
-  #   icon_pack = "fa"
-  #   link = "//twitter.com/GeorgeCushen"
+  [[params.social]]
+   icon = "linkedin"
+   icon_pack = "fa"
+   link = "https://www.linkedin.com/in/valeria-giacomin-98760527/"
 
-  # [[params.social]]
-  #  icon = "github"
-  #  icon_pack = "fa"
-  #  link = "//github.com/ValeriaGiacomin"
+  [[params.social]]
+   icon = "acedemia"
+   icon_pack = "ai"
+   link = "https://hbs.academia.edu/ValeriaGiacomin"
 
   # [[params.social]]
   #  icon = "google-scholar"
