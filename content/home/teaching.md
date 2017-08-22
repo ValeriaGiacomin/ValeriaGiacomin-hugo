@@ -6,10 +6,18 @@ date = "2016-04-20T00:00:00"
 draft = false
 
 title = "Teaching"
-subtitle = ""
+subtitle = "Copenhagen Business School"
 widget = "custom"
 
 # Order that this section will appear in.
 weight = 60
 
 +++
+-	Entrepreneurship and Innovation, (case based)
+Master Level, CBS; Fall 2016; Average Evaluations: 4/5
+
+- Google, Ebay, Amazon: Management Challenges in Networked Business,(case based)
+ Undergraduate Elective, CBS; Fall 2016; Average Evaluations: 4/5
+
+- Introduction to Economic Sociology, (case based)
+Undergraduate Level, CBS; Fall 2014-2015-2016; Average Evaluations: 4.5/5 
