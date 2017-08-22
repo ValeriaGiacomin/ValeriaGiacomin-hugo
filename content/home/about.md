@@ -43,4 +43,4 @@ weight = 1
 
 ## **Biography**
 
-Valeria Giacomin is Harvard-Newcomen Fellow 2017/2018 at Harvard Business School. Her PhD research focused on the evolution of the palm oil cluster in Malaysia and Indonesia during 20th century. She works on clustering and global value chains, trading networks and corporate reputation in emerging economies.
+Valeria Giacomin is Harvard-Newcomen Fellow 2017 / 2018 at Harvard Business School. Her PhD research focused on the evolution of the palm oil cluster in Malaysia and Indonesia during 20th century. She works on clustering and global value chains, trading networks and corporate reputation in emerging economies.
